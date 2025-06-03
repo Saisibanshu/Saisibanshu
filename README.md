@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saisibanshu
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m a .NET Dev.
 - 💞️ I’m looking to collaborate on GitHub or any other platform.
 - 📫 How to reach me
 Insta - @saisibanshu, Twitter - @Sibanshusai
